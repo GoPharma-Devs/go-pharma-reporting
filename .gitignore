@@ -1,0 +1,12 @@
+## variables de entorno
+
+.env
+.env.local
+_node_modules
+node_modules
+.npmrc
+.npmrc.local
+.npmrc.local.local
+
+
+## variables de entorno
